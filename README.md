@@ -5,8 +5,8 @@ This sample using refference:<br>
 https://github.com/chrisbanes/PhotoView<br>
 https://github.com/chrisbanes/PhotoView
 
-https://github.com/swieliong/ImageOverlayZoom/blob/master/screenshoot/Screenshot_2016-01-04-17-05-31.png
-https://github.com/swieliong/ImageOverlayZoom/blob/master/screenshoot/Screenshot_2016-01-04-17-05-38.png
-
+Screenshoot
+![alt tag](https://github.com/swieliong/ImageOverlayZoom/blob/master/screenshoot/Screenshot_2016-01-04-17-05-31.png)
+![alt tag](https://github.com/swieliong/ImageOverlayZoom/blob/master/screenshoot/Screenshot_2016-01-04-17-05-38.png)
 
 Hope it help

@@ -27,7 +27,7 @@ import android.widget.ListView;
  */
 public class LauncherActivity extends ListActivity {
 
-	public static final String[] options = { "Simple Sample", "ViewPager Sample" };
+	public static final String[] options = { "Simple Sample" };
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
@@ -44,9 +44,9 @@ public class LauncherActivity extends ListActivity {
 			case 0:
 				intent = new Intent(this, SimpleSampleActivity.class);
 				break;
-			case 1:
-				intent = new Intent(this, ViewPagerActivity.class);
-				break;
+			// case 1:
+			// 	intent = new Intent(this, ViewPagerActivity.class);
+			// 	break;
 		}
 
 		startActivity(intent);
